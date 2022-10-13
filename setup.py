@@ -14,7 +14,7 @@ def find_stubs(package):
 setup(
     name="mongoengine-stubs",
     description="PEP 561 type stubs for mongoengine",
-    version="0.0.0",
+    version="0.24.0",
     packages=["mongoengine-stubs"],
     # PEP 561 requires these
     install_requires=[

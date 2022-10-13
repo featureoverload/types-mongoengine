@@ -1,5 +1,9 @@
 .DS_Store
 .idea/
+
+# python stuff
 *.egg-info/
+dist/
+
 # (mypy)stubgen default output directory
 out/
